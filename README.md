@@ -9,6 +9,7 @@
 
 ### PROBLEM STATEMENT:
 Technological advancement for the aid of accident victims.
+
 NHTSA estimates that the combination of an airbag along with a seat belt reduces the
 risk of death by 61% only. So how newer technologies can help increase this value and
 notify the nearest hospital and police station simultaneously in case an accident occurs ,
