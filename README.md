@@ -13,6 +13,15 @@ This device would be helpful when an accident occurs especially at a secluded sp
 * Increase in the current survival rate.
 * More Reliable aid mechanism.
 
+### TECH STACK:
+* IoT
+* Shock/Crash Sensors 
+* GPS Module
+* GSM Module 
+* Arduino
+
+
+
 
 
 
